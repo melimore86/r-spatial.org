@@ -8,7 +8,9 @@ date: 25 October, 2018
 layout: post
 ---
 
-[view raw Rmd](https://raw.githubusercontent.com/r-spatial/r-spatial.org/gh-pages/_rmd/2018-10-03-ggplot2-sf-2.Rmd)
+[view raw Rmd](https://raw.githubusercontent.com/r-spatial/r-spatial.org/gh-pages/_rmd/2018-10-03-ggplot2-sf-2.Rmd)  
+
+EDIT: Following a suggestion from Adriano Fantini and code from Andy South, we replaced rworlmap by rnaturalearth. We also largely edited the text.  
 
 This tutorial is the second part in a series of three:
 
